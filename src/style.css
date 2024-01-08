@@ -26,6 +26,19 @@ html.dark body,
   color: var(--light);
 }
 
+a {
+  text-decoration: none;
+  color: var(--dark);
+}
+
+html.dark a {
+  color: var(--light);
+}
+
+html a:hover {
+  color: #4ade80;
+}
+
 .app {
   display: flex;
   align-items: center;

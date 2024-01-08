@@ -3,6 +3,13 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "利用canvas 编写 vue 动态背景",
+  "author": {
+    "name": "xiaohuohumax",
+    "url": "https://github.com/xiaohuohumax"
+  },
+  "homepage": "https://github.com/xiaohuohumax/PointBackground",
+  "license":"MIT",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc && vite build",

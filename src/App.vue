@@ -7,6 +7,11 @@
       <button type="button" @click="switchTheme">切换</button>
     </div>
   </div>
+  <div style="position: fixed;bottom: 1rem; right: 1rem;">
+    <a href="https://github.com/xiaohuohumax/PointBackground" target="_blank">
+      Github
+    </a>
+  </div>
 </template>
 <script setup lang="ts">
 import PointBackground from './components/PointBackground.vue';
